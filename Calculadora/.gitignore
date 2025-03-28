@@ -1,0 +1,70 @@
+# Visual Studio
+.vscode/
+.vscode/*
+
+# Build Results
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.ide.log
+
+# Logs
+*.log
+logs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Web
+node_modules/
+wwwroot/
+dist/
+bower_components/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+
+# Entity Framework
+Migrations/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# .NET Core
+!.gitignore
+!.gitattributes
